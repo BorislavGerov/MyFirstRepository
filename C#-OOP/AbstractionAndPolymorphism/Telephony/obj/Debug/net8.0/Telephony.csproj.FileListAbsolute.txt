@@ -1,0 +1,14 @@
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\bin\Debug\net8.0\Telephony.exe
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\bin\Debug\net8.0\Telephony.deps.json
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\bin\Debug\net8.0\Telephony.runtimeconfig.json
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\bin\Debug\net8.0\Telephony.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\bin\Debug\net8.0\Telephony.pdb
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.AssemblyInfo.cs
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\refint\Telephony.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.pdb
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\Telephony.genruntimeconfig.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\Telephony\obj\Debug\net8.0\ref\Telephony.dll

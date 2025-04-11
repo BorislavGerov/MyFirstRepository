@@ -1,0 +1,14 @@
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\bin\Debug\net8.0\DefinaAnInterfaceIPerson.exe
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\bin\Debug\net8.0\DefinaAnInterfaceIPerson.deps.json
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\bin\Debug\net8.0\DefinaAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\bin\Debug\net8.0\DefinaAnInterfaceIPerson.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\bin\Debug\net8.0\DefinaAnInterfaceIPerson.pdb
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\refint\DefinaAnInterfaceIPerson.dll
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.pdb
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\DefinaAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\Borislav\OneDrive\Desktop\SoftUni\Pregovor\AbstractionAndPolymorphism\AbstractionAndPolymorphism\obj\Debug\net8.0\ref\DefinaAnInterfaceIPerson.dll
