@@ -41,18 +41,26 @@ namespace Polymorphism.Core
                 string[] arrguments = reader.ReadLine().Split(" ").ToArray();
                 string command = arrguments[0];
                 string vehicleName = arrguments[1];
-                IVehicle vehicle = vehicles.FirstOrDefault(v => v.GetType().Name == vehicleName);
-                switch (command)
+                try
                 {
-                    case "Drive":
-                        double kilometers = double.Parse(arrguments[2]);
-                        Console.WriteLine(vehicle.Drive(kilometers));
-                        break;
+                    IVehicle vehicle = vehicles.FirstOrDefault(v => v.GetType().Name == vehicleName);
+                    switch (command)
+                    {
+                        case "Drive":
+                            double kilometers = double.Parse(arrguments[2]);
+                            Console.WriteLine(vehicle.Drive(kilometers));
+                            break;
 
-                    case "Refuel":
-                        double litters = double.Parse(arrguments[2]);
-                        vehicle.Refuel(litters);
-                        break;
+                        case "Refuel":
+                            double litters = double.Parse(arrguments[2]);
+                            vehicle.Refuel(litters);
+                            break;
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
                 }
             }
 

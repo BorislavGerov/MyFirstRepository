@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B7EC40-271B-42EF-93CD-578A954D64B1}|Polymorphism\\Polymorphism.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\polymorphism\\polymorphism\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -74,8 +78,7 @@
               "RelativeToolTip": "Polymorphism\\Factories\\VehicleFactory.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:58:24.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:58:24.857Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "Polymorphism\\Factories\\Interfaces\\IFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:57:59.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:57:59.049Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "Polymorphism\\IO\\ConsoleWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:32:48.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:32:48.088Z"
             },
             {
               "$type": "Document",
@@ -113,12 +114,11 @@
               "RelativeToolTip": "Polymorphism\\IO\\ConsoleReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:32:42.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:32:42.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IWriter.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\IO\\Interfaces\\IWriter.cs",
               "RelativeDocumentMoniker": "Polymorphism\\IO\\Interfaces\\IWriter.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IReader.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\IO\\Interfaces\\IReader.cs",
               "RelativeDocumentMoniker": "Polymorphism\\IO\\Interfaces\\IReader.cs",
@@ -139,8 +139,7 @@
               "RelativeToolTip": "Polymorphism\\IO\\Interfaces\\IReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:31:19.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:31:19.773Z"
             },
             {
               "$type": "Document",
@@ -152,12 +151,11 @@
               "RelativeToolTip": "Polymorphism\\Models\\Interfaces\\IVehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:05:18.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:05:18.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Truck.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\Models\\Truck.cs",
               "RelativeDocumentMoniker": "Polymorphism\\Models\\Truck.cs",
@@ -165,12 +163,11 @@
               "RelativeToolTip": "Polymorphism\\Models\\Truck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:04:57.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:04:57.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "Polymorphism\\Models\\Vehicle.cs",
@@ -183,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\Models\\Car.cs",
               "RelativeDocumentMoniker": "Polymorphism\\Models\\Car.cs",
@@ -191,8 +188,7 @@
               "RelativeToolTip": "Polymorphism\\Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:04:43.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:04:43.284Z"
             },
             {
               "$type": "Document",
@@ -204,18 +200,17 @@
               "RelativeToolTip": "Polymorphism\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:03:47.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T17:03:47.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\Core\\Engine.cs",
               "RelativeDocumentMoniker": "Polymorphism\\Core\\Engine.cs",
               "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Polymorphism\\Polymorphism\\Core\\Engine.cs",
               "RelativeToolTip": "Polymorphism\\Core\\Engine.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwD8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T17:03:33.729Z",
               "EditorCaption": ""
@@ -230,12 +225,7 @@
               "RelativeToolTip": "Polymorphism\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:01:05.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-13T17:01:05.056Z"
             }
           ]
         }
