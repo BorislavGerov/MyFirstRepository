@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Spy.cs",
+              "RelativeDocumentMoniker": "Reflection\\Spy.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Spy.cs*",
+              "RelativeToolTip": "Reflection\\Spy.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwEUAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:47:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Hacker.cs",
+              "RelativeDocumentMoniker": "Reflection\\Hacker.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Hacker.cs",
+              "RelativeToolTip": "Reflection\\Hacker.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:45:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\StartUp.cs",
+              "RelativeDocumentMoniker": "Reflection\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\StartUp.cs",
+              "RelativeToolTip": "Reflection\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:44:13.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
