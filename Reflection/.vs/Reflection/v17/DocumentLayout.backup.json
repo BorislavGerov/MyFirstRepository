@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\atributesexample\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|solutionrelative:atributesexample\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\atributesexample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|solutionrelative:atributesexample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\atributesexample\\authoratribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|solutionrelative:atributesexample\\authoratribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\atributesexample\\atributesexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|solutionrelative:atributesexample\\atributesexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,28 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\Tracker.cs",
+              "RelativeDocumentMoniker": "AtributesExample\\Tracker.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\Tracker.cs",
+              "RelativeToolTip": "AtributesExample\\Tracker.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:38:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorAtribute.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AuthorAtribute.cs",
+              "RelativeDocumentMoniker": "AtributesExample\\AuthorAtribute.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AuthorAtribute.cs",
+              "RelativeToolTip": "AtributesExample\\AuthorAtribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:26:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtributesExample",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AtributesExample.csproj",
+              "RelativeDocumentMoniker": "AtributesExample\\AtributesExample.csproj",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AtributesExample.csproj",
+              "RelativeToolTip": "AtributesExample\\AtributesExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T14:25:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\StartUp.cs",
+              "RelativeDocumentMoniker": "AtributesExample\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\StartUp.cs",
+              "RelativeToolTip": "AtributesExample\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:24:35.527Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Spy.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Spy.cs",
               "RelativeDocumentMoniker": "Reflection\\Spy.cs",
-              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Spy.cs*",
-              "RelativeToolTip": "Reflection\\Spy.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwEUAAAB3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Spy.cs",
+              "RelativeToolTip": "Reflection\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:47:32.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Hacker.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\Hacker.cs",
               "RelativeDocumentMoniker": "Reflection\\Hacker.cs",
@@ -56,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\Reflection\\StartUp.cs",
               "RelativeDocumentMoniker": "Reflection\\StartUp.cs",

@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{A1ED4202-210E-463C-9E89-C01297489C56}|AtributesExample\\AtributesExample.csproj|solutionrelative:atributesexample\\atributesexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|solutionrelative:reflection\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|solutionrelative:reflection\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\Stealer.csproj|solutionrelative:reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|c:\\users\\borislav\\onedrive\\desktop\\softuni - c#\\myfirstrepository\\reflection\\reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3601A93D-50A0-4ADD-B9DB-6AC8C8B88009}|Reflection\\SomeReflectionExample.csproj|solutionrelative:reflection\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,21 +67,19 @@
               "RelativeToolTip": "AtributesExample\\AuthorAtribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:26:18.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T14:26:18.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AtributesExample",
+              "Title": "AtributesExample.csproj",
               "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AtributesExample.csproj",
               "RelativeDocumentMoniker": "AtributesExample\\AtributesExample.csproj",
               "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SoftUni - C#\\MyFirstRepository\\Reflection\\AtributesExample\\AtributesExample.csproj",
               "RelativeToolTip": "AtributesExample\\AtributesExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T14:25:25.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T14:25:25.014Z"
             },
             {
               "$type": "Document",
@@ -89,12 +91,7 @@
               "RelativeToolTip": "AtributesExample\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:24:35.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-25T14:24:35.527Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Reflection\\Spy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwEIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:47:32.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:47:32.507Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Reflection\\Hacker.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:45:50.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:45:50.999Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Reflection\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:44:13.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:44:13.828Z"
             }
           ]
         }
