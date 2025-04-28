@@ -1,0 +1,14 @@
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\bin\Debug\net8.0\Company.exe
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\bin\Debug\net8.0\Company.deps.json
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\bin\Debug\net8.0\Company.runtimeconfig.json
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\bin\Debug\net8.0\Company.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\bin\Debug\net8.0\Company.pdb
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.AssemblyInfo.cs
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\refint\Company.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.pdb
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\Company.genruntimeconfig.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\UnitTestsBasics\UnitTestsBasics\obj\Debug\net8.0\ref\Company.dll
