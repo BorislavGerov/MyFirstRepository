@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\store.tests\\storetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|solutionrelative:store.tests\\storetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\store.tests\\promotiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|solutionrelative:store.tests\\promotiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\store.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193AEA2E-69A3-478C-BAE8-169217E89D3B}|Store.Tests\\Store.Tests.csproj|solutionrelative:store.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\mockexcercises\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|solutionrelative:mockexcercises\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\mockexcercises\\models\\promotionservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|solutionrelative:mockexcercises\\models\\promotionservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\mockexcercises\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|solutionrelative:mockexcercises\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|c:\\users\\borislav\\onedrive\\desktop\\somecode\\mockexcercises\\mockexcercises\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA17406D-2BB8-4A70-8363-B255F263FC5F}|MockExcercises\\Store.csproj|solutionrelative:mockexcercises\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "MockExcercises\\Engine\\Engine.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Engine\\Engine.cs",
+              "RelativeToolTip": "MockExcercises\\Engine\\Engine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:33:39.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromotionTests.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\PromotionTests.cs",
+              "RelativeDocumentMoniker": "Store.Tests\\PromotionTests.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\PromotionTests.cs",
+              "RelativeToolTip": "Store.Tests\\PromotionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:17:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromotionServise.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\PromotionServise.cs",
+              "RelativeDocumentMoniker": "MockExcercises\\Models\\PromotionServise.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\PromotionServise.cs",
+              "RelativeToolTip": "MockExcercises\\Models\\PromotionServise.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:12:05.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MockExcercises\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\Product.cs",
+              "RelativeToolTip": "MockExcercises\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:11:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "MockExcercises\\Models\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\MockExcercises\\Models\\Magazine.cs",
+              "RelativeToolTip": "MockExcercises\\Models\\Magazine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:11:57.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "Store.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\ProductTests.cs",
+              "RelativeToolTip": "Store.Tests\\ProductTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:05:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\StoreTests.cs",
+              "RelativeDocumentMoniker": "Store.Tests\\StoreTests.cs",
+              "ToolTip": "C:\\Users\\Borislav\\OneDrive\\Desktop\\SomeCode\\MockExcercises\\Store.Tests\\StoreTests.cs",
+              "RelativeToolTip": "Store.Tests\\StoreTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:39:21.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

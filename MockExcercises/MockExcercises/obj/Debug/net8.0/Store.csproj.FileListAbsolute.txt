@@ -1,0 +1,14 @@
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\bin\Debug\net8.0\Store.exe
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\bin\Debug\net8.0\Store.deps.json
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\bin\Debug\net8.0\Store.runtimeconfig.json
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\bin\Debug\net8.0\Store.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\bin\Debug\net8.0\Store.pdb
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.AssemblyInfoInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.AssemblyInfo.cs
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\refint\Store.dll
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.pdb
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\Store.genruntimeconfig.cache
+C:\Users\Borislav\OneDrive\Desktop\SomeCode\MockExcercises\MockExcercises\obj\Debug\net8.0\ref\Store.dll
